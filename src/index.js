@@ -138,11 +138,6 @@
 		eqlNum.value = parseFloat(midNum[0].value) - parseFloat(midNum[1].value);
 	}
 
-	//掛け算用の関数 mul
-	function mul(){
-		eqlNum.value = parseFloat(midNum[0].value) * parseFloat(midNum[1].value);
-	}
-
 	/* 演習1 ここまで */
 
 	/* TODO: 演習2 以降は下記に自由に記入 */
