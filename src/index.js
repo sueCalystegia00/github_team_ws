@@ -133,7 +133,7 @@
 
 	//引き算用の関数 sub
 	function sub(){
-		
+		eqlNum.value = parseFloat(midNum[0].value) - parseFloat(midNum[1].value);
 	}
 
 	/* 演習1 ここまで */
